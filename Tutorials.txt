@@ -91,5 +91,5 @@ docker restart mariadb-galera-3
 
 vv----Command code for Node.js----vv
 npm init -y
-nmp i mysql
+npm i mysql
 node app.js
